@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ## 📫 How to reach me
 
-- **LinkedIn**:  (https://www.linkedin.com/in/anish-jha-247310248/)
+- **LinkedIn**:  https://www.linkedin.com/in/anish-jha-247310248/
 - **Email**: anishjha12309@gmail.com
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
