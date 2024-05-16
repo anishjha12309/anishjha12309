@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 - **RESTful APIs**
 - **Postman**
 
+![Funny GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ## 🌱 What I'm currently learning
 
 - Advanced TypeScript
