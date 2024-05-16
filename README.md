@@ -43,12 +43,4 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 - **LinkedIn**: (https://www.linkedin.com/in/anish-jha-247310248/)
 - **Email**: anishjha12309@gmail.com
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## ✨ Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
