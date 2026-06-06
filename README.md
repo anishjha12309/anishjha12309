@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:1a1a1a&height=240&section=header&text=ANISH%20JHA&fontSize=72&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38&desc=F%20U%20L%20L%20%20%20S%20T%20A%20C%20K%20%20%20D%20E%20V%20E%20L%20O%20P%20E%20R&descAlignY=60&descSize=13&descColor=555555" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=16&duration=4000&pause=1500&color=888888&background=00000000&center=true&vCenter=true&width=580&lines=Crafting+digital+experiences+with+precision+%26+intent.;React+·+Next.js+·+Node.js+·+MongoDB;Always+learning.+Always+shipping." alt="Typing SVG" />
-
 </div>
 
 <br/>
@@ -92,15 +88,11 @@ const anish = {
 
 <div align="center">
 
-<kbd>M &nbsp; E &nbsp; T &nbsp; R &nbsp; I &nbsp; C &nbsp; S</kbd>
+<img src="https://media.giphy.com/media/tyttpH11RzaJZrsIRH2/giphy.gif" width="460" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anishjha12309&theme=github-dark-blue&hide_border=true&background=0D0D0D&ring=EEEEEE&fire=888888&currStreakLabel=EEEEEE&sideLabels=555555&dates=444444&sideNums=EEEEEE&currStreakNum=EEEEEE&stroke=0D0D0D" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishjha12309&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=e8e8e8&text_color=888888&langs_count=6" height="160"/>
+<sub><sup>&nbsp; &nbsp; N O T &nbsp; &nbsp; Q U I T E &nbsp; &nbsp; M Y &nbsp; &nbsp; T E M P O . &nbsp; &nbsp;</sup></sub>
 
 </div>
 
@@ -117,22 +109,6 @@ const anish = {
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishjha12309&theme=github-compact&bg_color=0d0d0d&color=888888&line=444444&point=eeeeee&area=true&area_color=222222&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<kbd>T &nbsp; R &nbsp; O &nbsp; P &nbsp; H &nbsp; I &nbsp; E &nbsp; S</kbd>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anishjha12309&theme=onestar&no-frame=true&row=1&column=7&margin-w=8&no-bg=true" width="100%"/>
 
 </div>
 
