@@ -14,7 +14,7 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -52,7 +52,7 @@ const anish = {
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -82,23 +82,7 @@ const anish = {
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/tyttpH11RzaJZrsIRH2/giphy.gif" width="460" />
-
-<br/>
-
-<sub><sup>&nbsp; &nbsp; N O T &nbsp; &nbsp; Q U I T E &nbsp; &nbsp; M Y &nbsp; &nbsp; T E M P O . &nbsp; &nbsp;</sup></sub>
-
-</div>
-
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=2&section=header" width="100%"/>
 
 <br/>
 
@@ -114,7 +98,7 @@ const anish = {
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:2a2a2a,100:0d0d0d&height=2&section=header" width="100%"/>
 
 <br/>
 
