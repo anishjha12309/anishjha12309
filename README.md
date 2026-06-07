@@ -5,7 +5,7 @@
 
 <p>
   <img width="200" src="https://media1.tenor.com/m/ZF6uJXZdTtsAAAAd/figure-it-out.gif" />
-  <img width="200" src="https://media.giphy.com/media/3WvmgXH3z16IBqpCr7/giphy.gif" />
-  <img width="200" src="https://media.giphy.com/media/60dciy6lBIpWJdwjy6/giphy.gif" />
+  <img width="200" src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" />
+  <img width="200" src="https://media1.tenor.com/m/DUlvPVrPZrwAAAAd/hacker-pc.gif" />
   <img width="200" src="https://media.giphy.com/media/XD8mutSdB241i/giphy.gif" />
 </p>
